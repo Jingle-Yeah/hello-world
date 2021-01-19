@@ -1,2 +1,7 @@
 # hello-world
-practise repository
+
+Hello everyone,
+
+Welcome to the world!
+
+Good luck!
